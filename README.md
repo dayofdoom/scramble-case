@@ -31,3 +31,6 @@ The PCB mounts to L3 from the bottom and is held tight by some bolts.
 
 ## About the files
 These files are provided to be used for noncommercial purposes.
+
+## About the project
+Thank you to Jay Greco for allowing me to use his files as the starting point for this project.
