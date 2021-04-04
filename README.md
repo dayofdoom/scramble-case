@@ -1,5 +1,4 @@
-# scramble-case
-Acrylic case for the Scramble Macropad
+# Acrylic case for the Scramble Macropad
 
 ![L1003525](https://user-images.githubusercontent.com/14165909/113496523-5a4b3d00-94af-11eb-806e-21201302e4ce.jpg)
 ![L1003522](https://user-images.githubusercontent.com/14165909/113496524-5d462d80-94af-11eb-8685-f46665549027.jpg)
