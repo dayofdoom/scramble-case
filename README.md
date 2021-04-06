@@ -1,4 +1,4 @@
-# Acrylic case for the Scramble Macropad
+# Acrylic case for the SCRAMBLE Macropad
 
 ![L1003525](https://user-images.githubusercontent.com/14165909/113496523-5a4b3d00-94af-11eb-806e-21201302e4ce.jpg)
 ![L1003522](https://user-images.githubusercontent.com/14165909/113496524-5d462d80-94af-11eb-8685-f46665549027.jpg)
@@ -33,4 +33,4 @@ The PCB mounts to L3 from the bottom and is held tight by some bolts.
 These files are provided to be used for noncommercial purposes.
 
 ## About the project
-Thank you to Jay Greco for allowing me to use his files as the starting point for this project. [Buy a Scramble from here.](https://nullbits.co)
+Thank you to Jay Greco for allowing me to use his files as the starting point for this project. [Buy a SCRAMBLE from here.](https://nullbits.co)
