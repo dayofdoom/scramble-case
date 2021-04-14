@@ -20,7 +20,7 @@ Dimensions: 72x53mm
 ## Hardware Needed
 * 12x M2x8mm screws
 * 4x M2 washers
-* 4x M2 bolts
+* 4x M2 nuts
 * 4x M2x9mm standoffs
 
 The PCB mounts to L3 from the bottom and is held tight by some bolts.
