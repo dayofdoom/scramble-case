@@ -26,7 +26,7 @@ Dimensions: 72x53mm
 The PCB mounts to L3 from the bottom and is held tight by some bolts.
 
 ## Getting one
-<<<<<<< HEAD
+
 Option 1: Use the files in repo with a cut on demand service like Ponoko.
 Option 2: Buy one from me here: https://www.etsy.com/listing/994163277/scramble-acrylic-case
 
