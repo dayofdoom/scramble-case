@@ -44,4 +44,3 @@ These files are provided to be used for noncommercial purposes.
 
 ## About the project
 Thank you to Jay Greco for allowing me to use his files as the starting point for this project. [Buy a SCRAMBLE from here.](https://nullbits.co)
->>>>>>> a6fa1a0989f5aa8b4cec6677f473359365ccb8f5
