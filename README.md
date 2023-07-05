@@ -31,12 +31,6 @@ Option 1: Use the files in repo with a cut on demand service like Ponoko.
 
 Option 2: Buy one from me here: https://www.etsy.com/listing/994163277/scramble-acrylic-case
 
-## About the files
-These files are provided to be used for noncommercial purposes.
-=======
-* Option 1: Use the files in repo with a cut on demand service like Ponoko.
-* Option 2: Buy one from me here: https://www.etsy.com/listing/994163277/scramble-acrylic-case
-
 ## Assembly Guide
 [Located here!](https://lakeebs.com/SCRAMBLE-Case-7120f6abd53f4658833156f06d2023ac)
 
